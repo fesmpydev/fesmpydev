@@ -1,4 +1,4 @@
-<h1>Creando experiencias digitales innovadoras.</h1>
+<h1>Desarrollando experiencias digitales innovadoras.</h1>
 <p>Desarrollador Web</p>
 <h2>🚀 Lenguajes y herramientas que uso</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
