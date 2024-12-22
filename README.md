@@ -1,5 +1,5 @@
-<h1>Desarrollador Full Stack</h1>
-<img src='https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1734885522~exp=1734889122~hmac=8275a72217b1da8e7cac3426069226beec59ad6c396c02507cec14e8976f590c&w=740' alt='Logo pc' width='100%' height='300' style='object-fit:cover'  />
+<h1>Desarrollador Full Stack 🥷</h1>
+<img src='https://wallpapercave.com/wp/wp12220869.jpg' alt='Logo pc' width='100%' height='auto' style='object-fit:cover'  />
 <h2>🚀 Lenguajes y librerias/Framework que uso:</h2>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-      block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
@@ -11,10 +11,9 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width='42' height='42' />
+<img src="https://camo.githubusercontent.com/86f61f7d4367c71a580e11af0bcd4f333d1b967225a679a12998657db1307dd3/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" width='42' height='42' />
 <a target="_blank" href="https://www.chartjs.org/media/logo-title.svg" style="display: inline-block;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-  
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>⚡️ Puedes contactarme en:</h2>
