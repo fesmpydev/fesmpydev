@@ -1,5 +1,5 @@
 <h1>Desarrollador Full Stack</h1>
-<img src='https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1734885522~exp=1734889122~hmac=8275a72217b1da8e7cac3426069226beec59ad6c396c02507cec14e8976f590c&w=740' alt='Logo pc' width='300' height='300' />
+<img src='https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1734885522~exp=1734889122~hmac=8275a72217b1da8e7cac3426069226beec59ad6c396c02507cec14e8976f590c&w=740' alt='Logo pc' width='100%' height='300' style='object-fit:contain'  />
 <h2>🚀 Lenguajes y librerias/Framework que uso:</h2>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-      block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
